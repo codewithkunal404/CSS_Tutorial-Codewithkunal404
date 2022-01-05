@@ -49,14 +49,13 @@
 # 3. Types of Css 👉
 ### There are three ways of inserting a style sheet:
 
->External CSS :
+>External CSS 
 <a href="https://github.com/codewithkunal404/css-tutorial/blob/main/External.html">Show Code</a>
 /////
 <a href="https://codewithkunal404.github.io/css-tutorial/External.html">Run Code</a>
 
 
->Internal CSS  
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/internal.html">Show Code</a>
+>Internal CSS <a href="https://github.com/codewithkunal404/css-tutorial/blob/main/internal.html">Show Code</a>
 /////
 <a href="https://codewithkunal404.github.io/css-tutorial/internal.html">Run Code</a>
 
