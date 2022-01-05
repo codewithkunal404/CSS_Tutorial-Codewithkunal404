@@ -22,7 +22,7 @@
 >Multiple CSS declarations are separated with semicolons, and declaration blocks are surrounded by curly braces.
 
 ### Example
-<a href="https://github.com/codewithkunal404.github.io/css-tutorial/syntax.html">Show Code</a>
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/syntax.html">Show Code</a>
 
 <a href="https://github.com/codewithkunal404.github.io/css-tutorial/syntax.html">Run Code</a>
 
