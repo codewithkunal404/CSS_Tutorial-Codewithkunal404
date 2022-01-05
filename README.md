@@ -1,7 +1,7 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50px"> Css-Tutorial 🧑‍🎓
 
 
-# 1. Introduction 👉
+# 1. Introduction 👇
 
 >CSS is the language we use to style an HTML document.
 
@@ -9,7 +9,7 @@
 
 >This tutorial will teach you CSS from basic to advanced.
 
-# 2. Syntax 👉
+# 2. Syntax 👇
 
 <img src="https://www.w3schools.com/css/img_selector.gif">
 
@@ -27,7 +27,7 @@
 <a href="https://codewithkunal404.github.io/css-tutorial/syntax.html">Run Code</a>
 
 
-# 3. Selector 👉
+# 3. Selector 👇
 
 >Tag selector 
 
@@ -46,7 +46,7 @@
 
 
 
-# 3. Types of Css 👉
+# 3. Types of Css 👇
 ### There are three ways of inserting a style sheet:
 
 >External CSS 
@@ -67,7 +67,7 @@
 /////
 <a href="https://codewithkunal404.github.io/css-tutorial/inline.html">Run Code</a>
 
-# 4. Css Comments 👉
+# 4. Css Comments 👇
 >Comments are used to explain the code, and may help when you edit the source code at a later date.
 
 >Comments are ignored by browsers.
@@ -80,7 +80,7 @@
 <a href="https://codewithkunal404.github.io/css-tutorial/comment.html">Run Code</a>
 
 
-# 4. Css Text 👉
+# 5. Css Text 👇
 ### CSS has a lot of properties for formatting text:--->
  
   > color
@@ -109,6 +109,10 @@
  
   > text-shadow
 
+ ### Example
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/css-text.html">Show Code</a>
+
+<a href="https://codewithkunal404.github.io/css-tutorial/css-text.html">Run Code</a>
 
  
  
