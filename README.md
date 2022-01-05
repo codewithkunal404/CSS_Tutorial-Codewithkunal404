@@ -50,7 +50,9 @@
 ### There are three ways of inserting a style sheet:
 
 >External CSS 
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/External.html">Show Code</a>
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/External.html">Externalfile</a>
+/////
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/mystyle.css">mystyle.css</a>
 /////
 <a href="https://codewithkunal404.github.io/css-tutorial/External.html">Run Code</a>
 
