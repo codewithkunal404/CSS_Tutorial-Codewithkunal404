@@ -31,6 +31,8 @@
 
 >Tag selector 
 
+>Universal selector
+
 >Attribute selector
 
 >Class selector
