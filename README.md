@@ -67,7 +67,7 @@
 /////
 <a href="https://codewithkunal404.github.io/css-tutorial/inline.html">Run Code</a>
 
-# 3. Css Comments 👉
+# 4. Css Comments 👉
 >Comments are used to explain the code, and may help when you edit the source code at a later date.
 
 >Comments are ignored by browsers.
@@ -82,11 +82,7 @@
 
 
  
- 
-# 3. Selector 👉
 
-
-# 3. Selector 👉
 
 
 
