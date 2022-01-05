@@ -80,7 +80,37 @@
 <a href="https://codewithkunal404.github.io/css-tutorial/comment.html">Run Code</a>
 
 
+# 4. Css Text 👉
+### CSS has a lot of properties for formatting text:--->
+ 
+  > color
+ 
+  > background-color
+ 
+  > text-align
+ 
+  > text-align-last
+ 
+  > vertical-align
+ 
+  > text-decoration
+ 
+  > text-transform
+ 
+  > text-indent
+ 
+  > letter-spacing
+ 
+  > line-height
+ 
+  > word-spacing
+ 
+  > white-space
+ 
+  > text-shadow
 
+
+ 
  
 
 
