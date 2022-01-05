@@ -1,7 +1,7 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50px"> Css-Tutorial 🧑‍🎓
 
 
-# 1.introduction 👉
+# 1. Introduction 👉
 
 >CSS is the language we use to style an HTML document.
 
@@ -27,6 +27,34 @@
 <a href="https://codewithkunal404.github.io/css-tutorial/syntax.html">Run Code</a>
 
 
+# 3. Selector 👉
+
+>Tag selector 
+
+>Attribute selector
+
+>Class selector
+
+>Id selector
+
+### Example
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/syntax.html">Show Code</a>
+
+<a href="https://codewithkunal404.github.io/css-tutorial/syntax.html">Run Code</a>
+
+
+
+# 3. Selector 👉
+
+
+# 3. Selector 👉
+
+
+
+# 3. Selector 👉
+
+
+# 3. Selector 👉
 
 
 
