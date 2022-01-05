@@ -46,8 +46,12 @@
 
 
 
-# 3. Selector 👉
+# 3. Types of Css 👉
+### There are three ways of inserting a style sheet:
 
+>External CSS
+>Internal CSS
+>Inline CSS
 
 # 3. Selector 👉
 
