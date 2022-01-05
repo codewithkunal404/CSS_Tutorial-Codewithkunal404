@@ -50,7 +50,11 @@
 ### There are three ways of inserting a style sheet:
 
 >External CSS
->Internal CSS
+
+
+>Internal CSS  
+
+
 >Inline CSS
 
 # 3. Selector 👉
