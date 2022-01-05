@@ -24,7 +24,7 @@
 ### Example
 <a href="https://github.com/codewithkunal404/css-tutorial/blob/main/syntax.html">Show Code</a>
 
-<a href="https://github.com/codewithkunal404.github.io/css-tutorial/syntax.html">Run Code</a>
+<a href="https://codewithkunal404.github.io/css-tutorial/syntax.html">Run Code</a>
 
 
 
