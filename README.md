@@ -73,10 +73,16 @@
 >Comments are ignored by browsers.
 
 >A CSS comment is placed inside the <style> element, and starts with /* and ends with */:
+ 
+### Example
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/comment.html">Show Code</a>
 
- ### Example: <a href="https://github.com/codewithkunal404/css-tutorial/blob/main/comments.html">Show Code</a>
+<a href="https://codewithkunal404.github.io/css-tutorial/comment.html">Run Code</a>
 
 
+
+ 
+ 
 # 3. Selector 👉
 
 
