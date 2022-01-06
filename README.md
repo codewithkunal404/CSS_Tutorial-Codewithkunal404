@@ -159,10 +159,10 @@
 
  
 
- # 6. Css Background 👇
+ # 7. Css Background 👇
  
 
- > <a href="https://www.pexels.com/">pixel</a> ///// <a href="https://pixabay.com/">pixelbay</a>
+ ><a href="https://www.pexels.com/">pixel</a> ///// <a href="https://pixabay.com/">pixelbay</a>
  
 >background	Sets    all the background properties in one declaration
  
