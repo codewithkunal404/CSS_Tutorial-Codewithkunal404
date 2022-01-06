@@ -174,8 +174,7 @@
 <a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-clip.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-clip.html">Run Code</a>
  
  
->background-color  
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-color.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-color.html">Run Code</a>
+>background-color <a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-color.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-color.html">Run Code</a>
  
 >background-image	
 <a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-image.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-image.html">Run Code</a>
