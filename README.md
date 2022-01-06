@@ -138,5 +138,26 @@
 <a href="https://codewithkunal404.github.io/css-tutorial/colors.html">Run Code</a>
 
 
+ # 5. Css Fonts 👇
+ 
+ >font-size
+ 
+ >font-weight
+ 
+ >font-family
+ 
+ >font-style
+ 
+ >font
+ 
+  ### Example
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/font.html">Show Code</a>
+
+<a href="https://codewithkunal404.github.io/css-tutorial/font.html">Run Code</a>
+
+ 
+ 
+ 
+
 
  
