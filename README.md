@@ -133,9 +133,9 @@
  
 
  ### Example
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/css-text.html">Show Code</a>
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/colors.html">Show Code</a>
 
-<a href="https://codewithkunal404.github.io/css-tutorial/css-text.html">Run Code</a>
+<a href="https://codewithkunal404.github.io/css-tutorial/colors.html">Run Code</a>
 
 
 
