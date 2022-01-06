@@ -140,6 +140,8 @@
 
  # 5. Css Fonts 👇
  
+ ><a href="https://fonts.google.com/">Google fonts</a>
+ 
  >font-size
  
  >font-weight
