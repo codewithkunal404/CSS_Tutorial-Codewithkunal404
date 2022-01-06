@@ -164,26 +164,33 @@
 
  ><a href="https://www.pexels.com/">pixel</a> ///// <a href="https://pixabay.com/">pixelbay</a>
  
->background	Sets    all the background properties in one declaration
+>background	
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background.html">Run Code</a>
  
->background-attachment	  Sets whether a background image is fixed or scrolls with the rest of the page
+>background-attachment	
+ <a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-attach.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-attach.html">Run Code</a>
  
->background-clip	  Specifies the painting area of the background
+>background-clip	
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-clip.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-clip.html">Run Code</a>
  
->background-color  	Sets the background color of an element
  
->background-image	  Sets the background image for an element
+>background-color  
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-color.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-color.html">Run Code</a>
  
->background-origin	  Specifies where the background image(s) is/are positioned
+>background-image	
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-image.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-image.html">Run Code</a>
  
->background-position  	Sets the starting position of a background image
+>background-origin	 
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-origin.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-origin.html">Run Code</a>
  
->background-repeat	Sets how a background image will be repeated
+>background-position 
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-position.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-position.html">Run Code</a>
  
->background-size	  Specifies the size of the background image(s)
+ 
+>background-repeat
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-repeat.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-repeat.html">Run Code</a>
+ 
+>background-size	
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-size.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-size.html">Run Code</a>
 
- ### Example
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background.html">Show Code</a>
-
-<a href="https://codewithkunal404.github.io/css-tutorial/background.html">Run Code</a>
  
