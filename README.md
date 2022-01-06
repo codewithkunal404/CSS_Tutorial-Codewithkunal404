@@ -116,7 +116,26 @@
 
  
  
+ # 5. Css Colors 👇
+### Colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values.:--->
 
+ > colors link: <a href="https://coolors.co/">Css colors</a>
+ 
+ >css-colorname
+ 
+ >css-border-color
+ 
+ >css-text-color
+ 
+ >css-background-color
+ 
+ >css-colors-values
+ 
+
+ ### Example
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/css-text.html">Show Code</a>
+
+<a href="https://codewithkunal404.github.io/css-tutorial/css-text.html">Run Code</a>
 
 
 
