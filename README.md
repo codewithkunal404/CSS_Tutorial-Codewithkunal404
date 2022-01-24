@@ -11,8 +11,6 @@
 
 # 2. Syntax 👇
 
-<img src="https://www.w3schools.com/css/img_selector.gif">
-
 >The selector points to the HTML element you want to style.
 
 >The declaration block contains one or more declarations separated by semicolons.
