@@ -3,6 +3,8 @@
 
 # 1. Introduction 👇
 
+>Cascading style sheet designing language.
+
 >CSS is the language we use to style an HTML document.
 
 >CSS describes how HTML elements should be displayed.
@@ -20,9 +22,9 @@
 >Multiple CSS declarations are separated with semicolons, and declaration blocks are surrounded by curly braces.
 
 ### Example
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/syntax.html">Show Code</a>
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/syntax.html">Show Code</a>
 
-<a href="https://codewithkunal404.github.io/css-tutorial/syntax.html">Run Code</a>
+<a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/syntax.html">Run Code</a>
 
 
 # 3. Selector 👇
