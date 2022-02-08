@@ -27,23 +27,6 @@
 <a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/syntax.html">Run Code</a>
 
 
-# 3. Selector 👇
-
->Tag selector 
-
->Universal selector
-
->Attribute selector
-
->Class selector
-
->Id selector
-
-### Example
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/selector.html">Show Code</a>
-
-<a href="https://codewithkunal404.github.io/css-tutorial/selector.html">Run Code</a>
-
 
 
 # 3. Types of Css 👇
@@ -67,7 +50,32 @@
 /////
 <a href="https://codewithkunal404.github.io/css-tutorial/inline.html">Run Code</a>
 
-# 4. Css Comments 👇
+
+
+
+
+# 4. Selector 👇
+
+>Tag selector 
+
+>Universal selector
+
+>Attribute selector
+
+>Class selector
+
+>Id selector
+
+### Example
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/selector.html">Show Code</a>
+
+<a href="https://codewithkunal404.github.io/css-tutorial/selector.html">Run Code</a>
+
+
+
+
+
+# 5. Css Comments 👇
 >Comments are used to explain the code, and may help when you edit the source code at a later date.
 
 >Comments are ignored by browsers.
@@ -79,8 +87,11 @@
 
 <a href="https://codewithkunal404.github.io/css-tutorial/comment.html">Run Code</a>
 
+ 
+ 
 
-# 5. Css Text 👇
+# 6. Css Text 👇
+ 
 ### CSS has a lot of properties for formatting text:--->
  
   > color
