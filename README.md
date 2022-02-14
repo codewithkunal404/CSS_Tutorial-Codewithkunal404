@@ -93,10 +93,14 @@
 # 6. Css Text 👇
  
 ### CSS has a lot of properties for formatting text:--->
+
+### Text-Color
  
   > color
  
   > background-color
+ 
+
  
   > text-align
  
