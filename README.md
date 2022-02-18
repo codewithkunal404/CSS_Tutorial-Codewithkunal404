@@ -94,40 +94,71 @@
  
 ### CSS has a lot of properties for formatting text:--->
 
-### Text-Color
+### Text Color
  
   > color
  
   > background-color
  
-
- 
-  > text-align
- 
-  > text-align-last
- 
-  > vertical-align
- 
-  > text-decoration
- 
-  > text-transform
- 
-  > text-indent
- 
-  > letter-spacing
- 
-  > line-height
- 
-  > word-spacing
- 
-  > white-space
- 
-  > text-shadow
-
- ### Example
+ <br>
+  ### Example
 <a href="https://github.com/codewithkunal404/css-tutorial/blob/main/css-text.html">Show Code</a>
 
 <a href="https://codewithkunal404.github.io/css-tutorial/css-text.html">Run Code</a>
+ <br>
+ 
+### Text Spacing
+ 
+ 
+> text-indent
+ 
+> letter-spacing
+ 
+> line-height
+ 
+> word-spacing
+ 
+> white-space
+
+  <br>
+  ### Example
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/css-text.html">Show Code</a>
+
+<a href="https://codewithkunal404.github.io/css-tutorial/css-text.html">Run Code</a>
+ <br>
+ 
+
+
+### Text shadow
+ 
+> Text Shadow
+ 
+  <br>
+  ### Example
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/css-text.html">Show Code</a>
+
+<a href="https://codewithkunal404.github.io/css-tutorial/css-text.html">Run Code</a>
+ <br>
+ 
+### Text Decoration
+ 
+> text-decoration-line
+ 
+> text-decoration-color
+ 
+> text-decoration-style
+ 
+> text-decoration-thickness
+ 
+> text-decoration
+ 
+  <br>
+  ### Example
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/css-text.html">Show Code</a>
+
+<a href="https://codewithkunal404.github.io/css-tutorial/css-text.html">Run Code</a>
+ <br>
+
 
  
  
