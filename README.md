@@ -101,10 +101,13 @@
   > background-color
  
  <br>
-  ### Example
+
+ 
+#### Example
 <a href="https://github.com/codewithkunal404/css-tutorial/blob/main/css-text.html">Show Code</a>
 
 <a href="https://codewithkunal404.github.io/css-tutorial/css-text.html">Run Code</a>
+ 
  <br>
  
 ### Text Spacing
@@ -121,10 +124,13 @@
 > white-space
 
   <br>
-  ### Example
+ 
+
+#### Example
 <a href="https://github.com/codewithkunal404/css-tutorial/blob/main/css-text.html">Show Code</a>
 
 <a href="https://codewithkunal404.github.io/css-tutorial/css-text.html">Run Code</a>
+ 
  <br>
  
 
@@ -134,10 +140,12 @@
 > Text Shadow
  
   <br>
-  ### Example
+ 
+#### Example
 <a href="https://github.com/codewithkunal404/css-tutorial/blob/main/css-text.html">Show Code</a>
 
 <a href="https://codewithkunal404.github.io/css-tutorial/css-text.html">Run Code</a>
+ 
  <br>
  
 ### Text Decoration
@@ -153,13 +161,28 @@
 > text-decoration
  
   <br>
-  ### Example
+ 
+ 
+#### Example
 <a href="https://github.com/codewithkunal404/css-tutorial/blob/main/css-text.html">Show Code</a>
 
 <a href="https://codewithkunal404.github.io/css-tutorial/css-text.html">Run Code</a>
+ 
  <br>
 
+### Text Transformation
+ 
+ > text-transform
+ 
+<br>
+ 
+ 
+#### Example
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/css-text.html">Show Code</a>
 
+<a href="https://codewithkunal404.github.io/css-tutorial/css-text.html">Run Code</a>
+ 
+ <br>
  
  
  # 5. Css Colors 👇
