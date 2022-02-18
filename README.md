@@ -185,6 +185,30 @@
  <br>
  
  
+ ### Text Alignment
+ 
+> text-align
+ 
+> text-align-last
+ 
+> direction
+ 
+> unicode-bidi
+ 
+> vertical-align
+ 
+ 
+ <br>
+ 
+ 
+#### Example
+<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/css-text.html">Show Code</a>
+
+<a href="https://codewithkunal404.github.io/css-tutorial/css-text.html">Run Code</a>
+ 
+ <br>
+ 
+ 
  # 5. Css Colors 👇
 ### Colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values.:--->
 
