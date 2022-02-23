@@ -40,15 +40,15 @@
 <a href="https://codewithkunal404.github.io/css-tutorial/External.html">Run Code</a>
 
 
->Internal CSS <a href="https://github.com/codewithkunal404/css-tutorial/blob/main/internal.html">Show Code</a>
+>Internal CSS <a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/internal.html">Show Code</a>
 /////
-<a href="https://codewithkunal404.github.io/css-tutorial/internal.html">Run Code</a>
+<a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/internal.html">Run Code</a>
 
 
 >Inline CSS
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/inline.html">Show Code</a>
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/inline.html">Show Code</a>
 /////
-<a href="https://codewithkunal404.github.io/css-tutorial/inline.html">Run Code</a>
+<a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/inline.html">Run Code</a>
 
 
 
@@ -67,9 +67,9 @@
 >Id selector
 
 ### Example
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/selector.html">Show Code</a>
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/selector.html">Show Code</a>
 
-<a href="https://codewithkunal404.github.io/css-tutorial/selector.html">Run Code</a>
+<a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/selector.html">Run Code</a>
 
 
 
@@ -83,9 +83,9 @@
 >A CSS comment is placed inside the <style> element, and starts with /* and ends with */:
  
 ### Example
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/comment.html">Show Code</a>
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/comment.html">Show Code</a>
 
-<a href="https://codewithkunal404.github.io/css-tutorial/comment.html">Run Code</a>
+<a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/comment.html">Run Code</a>
 
  
  
@@ -104,9 +104,9 @@
 
  
 #### Example
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/css-text.html">Show Code</a>
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/css-text.html">Show Code</a>
 
-<a href="https://codewithkunal404.github.io/css-tutorial/css-text.html">Run Code</a>
+<a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/css-text.html">Run Code</a>
  
  <br>
  
@@ -127,9 +127,9 @@
  
 
 #### Example
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/css-text.html">Show Code</a>
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/css-text.html">Show Code</a>
 
-<a href="https://codewithkunal404.github.io/css-tutorial/css-text.html">Run Code</a>
+<a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/css-text.html">Run Code</a>
  
  <br>
  
@@ -142,9 +142,9 @@
   <br>
  
 #### Example
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/css-text.html">Show Code</a>
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/css-text.html">Show Code</a>
 
-<a href="https://codewithkunal404.github.io/css-tutorial/css-text.html">Run Code</a>
+<a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/css-text.html">Run Code</a>
  
  <br>
  
@@ -164,9 +164,9 @@
  
  
 #### Example
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/css-text.html">Show Code</a>
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/css-text.html">Show Code</a>
 
-<a href="https://codewithkunal404.github.io/css-tutorial/css-text.html">Run Code</a>
+<a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/css-text.html">Run Code</a>
  
  <br>
 
@@ -178,9 +178,9 @@
  
  
 #### Example
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/css-text.html">Show Code</a>
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/css-text.html">Show Code</a>
 
-<a href="https://codewithkunal404.github.io/css-tutorial/css-text.html">Run Code</a>
+<a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/css-text.html">Run Code</a>
  
  <br>
  
@@ -202,9 +202,9 @@
  
  
 #### Example
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/css-text.html">Show Code</a>
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/css-text.html">Show Code</a>
 
-<a href="https://codewithkunal404.github.io/css-tutorial/css-text.html">Run Code</a>
+<a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/css-text.html">Run Code</a>
  
  <br>
  
@@ -226,9 +226,9 @@
  
 
  ### Example
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/colors.html">Show Code</a>
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/colors.html">Show Code</a>
 
-<a href="https://codewithkunal404.github.io/css-tutorial/colors.html">Run Code</a>
+<a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/colors.html">Run Code</a>
 
 
  # 6. Css Fonts 👇
@@ -246,9 +246,9 @@
  >font
  
   ### Example
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/font.html">Show Code</a>
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/font.html">Show Code</a>
 
-<a href="https://codewithkunal404.github.io/css-tutorial/font.html">Run Code</a>
+<a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/font.html">Run Code</a>
 
  
 
@@ -258,31 +258,45 @@
  ><a href="https://www.pexels.com/">pixel</a> ///// <a href="https://pixabay.com/">pixelbay</a>
  
 >background	
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background.html">Run Code</a>
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/background.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background.html">Run Code</a>
  
 >background-attachment	
- <a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-attach.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-attach.html">Run Code</a>
+ <a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/background-attach.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-attach.html">Run Code</a>
  
 >background-clip	
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-clip.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-clip.html">Run Code</a>
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/background-clip.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-clip.html">Run Code</a>
  
  
 >background-color <a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-color.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-color.html">Run Code</a>
  
 >background-image	
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-image.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-image.html">Run Code</a>
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/background-image.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-image.html">Run Code</a>
  
 >background-origin	 
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-origin.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-origin.html">Run Code</a>
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/background-origin.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-origin.html">Run Code</a>
  
 >background-position 
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-position.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-position.html">Run Code</a>
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/background-position.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-position.html">Run Code</a>
  
  
 >background-repeat
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-repeat.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-repeat.html">Run Code</a>
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/background-repeat.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-repeat.html">Run Code</a>
  
 >background-size	
-<a href="https://github.com/codewithkunal404/css-tutorial/blob/main/background-size.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-size.html">Run Code</a>
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/background-size.html">Show Code</a>//////<a href="https://codewithkunal404.github.io/css-tutorial/background-size.html">Run Code</a>
 
+ 
+ 
+  # 8. Css padding 👇
+ 
+ <li>padding-top</li>
+ <li>padding-left</li>
+ <li>padding-right</li>
+ <li>padding-bottom</li>
+ 
+ 
+  ### Example
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/padding.html">Show Code</a>
+
+<a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/padding.html">Run Code</a>
  
