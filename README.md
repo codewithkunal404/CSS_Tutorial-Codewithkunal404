@@ -300,3 +300,22 @@
 
 <a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/padding.html">Run Code</a>
  
+ <br>
+ 
+ 
+ 
+   # 9. Css margin 👇
+ 
+ 
+ 
+ <li>  margin-top   </li>
+ <li>  margin-right  </li>
+ <li>  margin-bottom  </li>
+ <li>  margin-left   </li>
+ 
+  ### Example
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/margin.html">Show Code</a>
+
+<a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/margin.html">Run Code</a>
+
+ 
