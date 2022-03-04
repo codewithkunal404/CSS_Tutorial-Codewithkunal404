@@ -328,7 +328,7 @@
  <li> border-width </li>
  <li> border-color </li>
  <li> border-radius </li>
- <li border-sides (top,bottom,left,right) </li>
+ <li> border-sides (top,bottom,left,right) </li>
  <li> border-shorthand </li>
  
   ### Example
