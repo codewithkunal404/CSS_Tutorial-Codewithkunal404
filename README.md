@@ -317,5 +317,23 @@
 <a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/margin.html">Show Code</a>
 
 <a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/margin.html">Run Code</a>
+ 
+ 
+ 
+ 
+  # 10. Css Border 👇
+ 
+ 
+ <li> border-style </li>
+ <li> border-width </li>
+ <li> border-color </li>
+ <li> border-radius </li>
+ <li border-sides (top,bottom,left,right) </li>
+ <li> border-shorthand </li>
+ 
+  ### Example
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/border.html">Show Code</a>
+
+<a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/border.html">Run Code</a>
 
  
