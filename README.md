@@ -324,12 +324,47 @@
   # 10. Css Border 👇
  
  
- <li> border-style </li>
- <li> border-width </li>
- <li> border-color </li>
- <li> border-radius </li>
- <li> border-sides (top,bottom,left,right) </li>
- <li> border-shorthand </li>
+            border: ;
+            
+            border-bottom: ;
+            border-top: ;
+            border-left: ;
+            border-right: ;
+
+
+
+            border-color: ;
+
+            border-left-color: ;
+            border-top-color: ;
+            border-right-color: ;
+            border-bottom-color: ;
+
+           
+
+            border-width: ;
+
+            border-top-width: ;
+            border-right-width: ;
+            border-left-width: ;
+            border-right-width: ;
+            
+            
+            
+            border-style: ;
+
+            border-top-style: ;
+            border-left-style: ;
+            border-bottom-style: ;
+            border-right-style: ;
+
+            
+            border-radius: ;
+
+            border-bottom-left-radius: ;
+            border-top-left-radius: ;
+            border-top-right-radius: ;
+            border-bottom-right-radius: ;
  
   ### Example
 <a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/border.html">Show Code</a>
