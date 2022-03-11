@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bordershorthand</title>
+    <style>
+
+        .box{
+
+            width: 400px;
+            height: 400px;
+            background-color: red;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%,-50%);
+            position: absolute;
+
+/*   border is equal to combine of border-width border-style border-color */
+            /* border: 10px  groove darkred; */
+            border-top:20px solid yellow ;
+            border-bottom: 20px solid green;
+            border-left: 20px solid black;
+            border-right: 20px solid blueviolet;
+            
+            
+        }
+
+
+    </style>
+</head>
+<body>
+
+    <div class="box"></div>
+    
+</body>
+</html>
