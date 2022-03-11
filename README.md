@@ -372,3 +372,16 @@
 <a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/border.html">Run Code</a>
 
  
+ 
+ 
+   # 10. Css border Shorthand property  👇
+ 
+ ><li> border: border-width border-style border-color</li>
+ 
+
+  ### Example
+<a href="https://github.com/codewithkunal404/CSS_Tutorial-Codewithkunal404/blob/main/bordershort.html">Show Code</a>
+
+<a href="https://codewithkunal404.github.io/CSS_Tutorial-Codewithkunal404/bordershort.html">Run Code</a>
+ 
+ 
